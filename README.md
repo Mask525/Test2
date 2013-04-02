@@ -22,7 +22,6 @@ Nova333
 Adrian_Sidnay
 Adam_Sidnay 
 Jan_Carter
-Tommy_Penta
 StiLL
 ziggerle
 GreeceGangster5000
@@ -32,3 +31,5 @@ Pandacat
 soufian0
 Jayden_Garcia
 Tommy_Penta
+
+
